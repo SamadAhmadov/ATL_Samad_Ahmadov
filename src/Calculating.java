@@ -2,11 +2,11 @@ import java.util.Scanner;
 
 public class Calculating {
     public static void main(String[] args) {
-         Scanner scanner=new Scanner(System.in);
-        System.out.println("birinci ededi daxil edin");
+        Scanner scanner=new Scanner(System.in);
+        System.out.println("Birinci ededi daxil edin");
         int a=scanner.nextInt();
 
-        System.out.println("ikinci ededi daxil edin");
+        System.out.println("Ikinci ededi daxil edin");
         int b= scanner.nextInt();
 
         int cem = a+b;
